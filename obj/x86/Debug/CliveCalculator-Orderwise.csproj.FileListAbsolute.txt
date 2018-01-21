@@ -1,0 +1,7 @@
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\obj\x86\Debug\CliveCalculator_Orderwise.MainForm.resources
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\obj\x86\Debug\CliveCalculator_Orderwise.Properties.Resources.resources
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\obj\x86\Debug\CliveCalculator-Orderwise.csproj.GenerateResource.Cache
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\bin\Debug\CliveCalculator-Orderwise.exe
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\bin\Debug\CliveCalculator-Orderwise.pdb
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\obj\x86\Debug\CliveCalculator-Orderwise.exe
+C:\Development\Sandbox\CliveCalculator-Orderwise\CliveCalculator-Orderwise\obj\x86\Debug\CliveCalculator-Orderwise.pdb
